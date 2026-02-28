@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GameTracker_Mobile.DetalleJuegoPage"
+             Title="Detalles del Juego"
+             BackgroundColor="#121212">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+        <Label x:Name="lblNombre" FontSize="32" TextColor="Lime" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+        <Label Text="NOTAS Y LOGROS:" TextColor="Gray" FontAttributes="Bold" />
+        <Editor x:Name="txtNotas" 
+                Placeholder="Escribe tus notas aquí..." 
+                HeightRequest="200" 
+                TextColor="White" 
+                BackgroundColor="#252525" />
+
+        <Button Text="GUARDAR NOTAS" Clicked="OnGuardarNotasClicked" BackgroundColor="Lime" TextColor="Black" FontAttributes="Bold"/>
+        <Button Text="VOLVER" Clicked="OnVolverClicked" BackgroundColor="#607D8B" TextColor="White"/>
+    </VerticalStackLayout>
+</ContentPage>

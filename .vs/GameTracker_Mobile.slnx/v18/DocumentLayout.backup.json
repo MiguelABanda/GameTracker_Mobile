@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\eliminarjuegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\eliminarjuegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\juegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\juegos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\eliminarjuegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\eliminarjuegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\detallejuegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\detallejuegopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\detallejuegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\detallejuegopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\gametracker_mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\gametracker_mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\listajuegospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\listajuegospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\listajuegospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\listajuegospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|c:\\users\\jorge\\source\\repos\\gametracker_mobile\\gametracker_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01107D8D-2AA8-410A-7381-4EA476F9E9B2}|GameTracker_Mobile\\GameTracker_Mobile.csproj|solutionrelative:gametracker_mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleJuegoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\DetalleJuegoPage.xaml.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\DetalleJuegoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\DetalleJuegoPage.xaml.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\DetalleJuegoPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T23:49:39.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleJuegoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\DetalleJuegoPage.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\DetalleJuegoPage.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\DetalleJuegoPage.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\DetalleJuegoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T23:49:49.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Juegos.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\Juegos.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\Juegos.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\Juegos.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\Juegos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T23:26:13.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EliminarJuegoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\EliminarJuegoPage.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\EliminarJuegoPage.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\EliminarJuegoPage.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\EliminarJuegoPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T11:40:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EliminarJuegoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\EliminarJuegoPage.xaml.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\EliminarJuegoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\EliminarJuegoPage.xaml.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\EliminarJuegoPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:41:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\App.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\App.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\App.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T23:26:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\MainPage.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\MainPage.xaml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T11:21:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\MainPage.xaml.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:22:48.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\AppShell.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T11:18:38.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\NewPage1.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\NewPage1.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\NewPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T11:39:42.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameTracker_Mobile.csproj",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\GameTracker_Mobile.csproj",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\GameTracker_Mobile.csproj",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\GameTracker_Mobile.csproj",
+              "RelativeToolTip": "GameTracker_Mobile\\GameTracker_Mobile.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-27T11:29:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\App.xaml.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:20:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaJuegosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\ListaJuegosPage.xaml.cs",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\ListaJuegosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\ListaJuegosPage.xaml.cs",
+              "RelativeToolTip": "GameTracker_Mobile\\ListaJuegosPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:20:40.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaJuegosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\ListaJuegosPage.xaml",
+              "RelativeDocumentMoniker": "GameTracker_Mobile\\ListaJuegosPage.xaml",
+              "ToolTip": "C:\\Users\\jorge\\source\\repos\\GameTracker_Mobile\\GameTracker_Mobile\\ListaJuegosPage.xaml",
+              "RelativeToolTip": "GameTracker_Mobile\\ListaJuegosPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T11:19:45.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

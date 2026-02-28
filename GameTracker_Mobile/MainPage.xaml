@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GameTracker_Mobile.MainPage"
+             Title="GAME TRACKER"
+             BackgroundColor="#121212">
+
+    <VerticalStackLayout Padding="25" Spacing="20">
+        <Label Text="NUEVO REGISTRO" TextColor="Lime" FontSize="24" HorizontalOptions="Center" FontAttributes="Bold" />
+
+        <Entry x:Name="txtNombre" Placeholder="Nombre del Juego" TextColor="White" PlaceholderColor="Gray" />
+
+        <Picker x:Name="pickerPlataforma" Title="Plataforma" TextColor="White" TitleColor="Lime">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>XBOX</x:String>
+                    <x:String>PLAY</x:String>
+                    <x:String>SWITCH</x:String>
+                    <x:String>COMPUTADORA</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Picker x:Name="pickerGenero" Title="Género" TextColor="White" TitleColor="Lime">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Accion</x:String>
+                    <x:String>RPG</x:String>
+                    <x:String>Shooter</x:String>
+                    <x:String>Terror</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button Text="GUARDAR JUEGO" Clicked="OnAgregarClicked" BackgroundColor="Lime" TextColor="Black" FontAttributes="Bold" />
+    </VerticalStackLayout>
+</ContentPage>

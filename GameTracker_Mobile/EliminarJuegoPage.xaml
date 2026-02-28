@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GameTracker_Mobile.EliminarJuegoPage"
+             Title="ELIMINAR JUEGOS"
+             BackgroundColor="#121212">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="Toca un juego para eliminarlo" 
+               TextColor="Red" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,0,0,10" />
+
+        <ListView x:Name="listaBorrar" 
+                  ItemSelected="OnItemSelected" 
+                  BackgroundColor="Transparent" 
+                  SeparatorColor="Red">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <HorizontalStackLayout Padding="15" Spacing="10">
+                            <Label Text="❌" VerticalOptions="Center" />
+                            <VerticalStackLayout>
+                                <Label Text="{Binding Nombre}" TextColor="White" FontSize="18" />
+                                <Label Text="{Binding Plataforma}" TextColor="Gray" FontSize="12" />
+                            </VerticalStackLayout>
+                        </HorizontalStackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>
