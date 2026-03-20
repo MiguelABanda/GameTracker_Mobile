@@ -22,7 +22,7 @@ public partial class MainPage : ContentPage
             Nombre = txtNombre.Text,
             Plataforma = pickerPlataforma.SelectedItem.ToString(),
             Genero = pickerGenero.SelectedIndex != -1 ?
-                     (GeneroJuego)Enum.Parse(typeof(GeneroJuego), pickerGenero.SelectedItem.ToString()) :
+                     (GeneroJuego)System.Enum.Parse(typeof(GeneroJuego), pickerGenero.SelectedItem.ToString()) :
                      GeneroJuego.Accion,
             Estado = "Pendiente"
         };

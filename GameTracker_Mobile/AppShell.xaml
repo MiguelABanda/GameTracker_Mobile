@@ -9,13 +9,13 @@
 
     <Shell.ItemTemplate>
         <DataTemplate>
-            <Grid ColumnDefinitions="0.2*, 0.8*" Padding="15">
-                <Label Grid.Column="1" 
-                       Text="{Binding Title}" 
+            <Grid Padding="15">
+                <Label Text="{Binding Title}" 
                        TextColor="Lime" 
                        FontSize="18" 
                        VerticalOptions="Center" 
-                       FontAttributes="Bold" />
+                       FontAttributes="Bold" 
+                       Margin="20,0,0,0"/>
             </Grid>
         </DataTemplate>
     </Shell.ItemTemplate>
@@ -38,5 +38,4 @@
     <FlyoutItem Title="Borrar Juego">
         <ShellContent Title="ELIMINAR JUEGOS" ContentTemplate="{DataTemplate local:EliminarJuegoPage}" />
     </FlyoutItem>
-
 </Shell>

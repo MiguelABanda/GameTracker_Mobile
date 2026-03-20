@@ -19,3 +19,6 @@
         <Button Text="VOLVER" Clicked="OnVolverClicked" BackgroundColor="#607D8B" TextColor="White"/>
     </VerticalStackLayout>
 </ContentPage>
+    
+    
+    
