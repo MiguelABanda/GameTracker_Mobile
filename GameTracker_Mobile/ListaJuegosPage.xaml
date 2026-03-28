@@ -5,17 +5,29 @@
              Title="MI BIBLIOTECA"
              BackgroundColor="#121212">
 
-    <ListView x:Name="listaJuegos" ItemSelected="OnItemSelected" BackgroundColor="Transparent" SeparatorColor="Lime">
+    <ListView x:Name="listaJuegos" 
+              ItemSelected="OnItemSelected" 
+              BackgroundColor="Transparent" 
+              SeparatorVisibility="None"
+              HasUnevenRows="True">
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
-                    <HorizontalStackLayout Padding="15" Spacing="15">
-                        <Label Text="{Binding Id}" TextColor="Lime" VerticalOptions="Center" FontAttributes="Bold" />
-                        <VerticalStackLayout>
-                            <Label Text="{Binding Nombre}" TextColor="White" FontSize="18" />
-                            <Label Text="{Binding Plataforma}" TextColor="Gray" FontSize="12" />
+                    <Frame BackgroundColor="#1E1E1E" Margin="8" Padding="12" CornerRadius="10" HasShadow="False" BorderColor="#333333">
+                        <VerticalStackLayout Spacing="5">
+                            <HorizontalStackLayout Spacing="10">
+                                <Label Text="{Binding Nombre}" TextColor="Lime" FontSize="18" FontAttributes="Bold" />
+                                <Label Text="{Binding Plataforma}" TextColor="#AAAAAA" VerticalOptions="Center" FontSize="12" />
+                            </HorizontalStackLayout>
+
+                            <HorizontalStackLayout Spacing="15" Margin="0,5,0,0">
+                                <Label Text="{Binding FechaRegistro, StringFormat='📅 {0:dd/MM/yyyy}'}" 
+                                       TextColor="Gray" FontSize="11" />
+                                <Label Text="{Binding TiempoTotal, StringFormat='⏱ {0}'}" 
+                                       TextColor="Yellow" FontSize="11" FontAttributes="Bold" />
+                            </HorizontalStackLayout>
                         </VerticalStackLayout>
-                    </HorizontalStackLayout>
+                    </Frame>
                 </ViewCell>
             </DataTemplate>
         </ListView.ItemTemplate>

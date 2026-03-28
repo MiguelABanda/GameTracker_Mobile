@@ -28,14 +28,20 @@
     </Shell.FlyoutHeader>
 
     <FlyoutItem Title="Agregar Juego">
-        <ShellContent Title="GAME TRACKER" ContentTemplate="{DataTemplate local:MainPage}" />
+        <ShellContent Title="GAME TRACKER" 
+                      ContentTemplate="{DataTemplate local:MainPage}" 
+                      Route="MainPage" />
     </FlyoutItem>
 
     <FlyoutItem Title="Ver Mi Biblioteca">
-        <ShellContent Title="MI BIBLIOTECA" ContentTemplate="{DataTemplate local:ListaJuegosPage}" />
+        <ShellContent Title="MI BIBLIOTECA" 
+                      ContentTemplate="{DataTemplate local:ListaJuegosPage}" 
+                      Route="ListaJuegosPage" />
     </FlyoutItem>
 
     <FlyoutItem Title="Borrar Juego">
-        <ShellContent Title="ELIMINAR JUEGOS" ContentTemplate="{DataTemplate local:EliminarJuegoPage}" />
+        <ShellContent Title="ELIMINAR JUEGOS" 
+                      ContentTemplate="{DataTemplate local:EliminarJuegoPage}" 
+                      Route="EliminarJuegoPage" />
     </FlyoutItem>
 </Shell>

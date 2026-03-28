@@ -4,16 +4,20 @@ public partial class MainPage : ContentPage
 {
     GestorJuegos gestor = new GestorJuegos();
 
-    public MainPage()
-    {
-        InitializeComponent();
-    }
+    public MainPage() { InitializeComponent(); }
 
     private async void OnAgregarClicked(object sender, EventArgs e)
     {
         if (string.IsNullOrWhiteSpace(txtNombre.Text) || pickerPlataforma.SelectedIndex == -1)
         {
-            await DisplayAlert("Error", "Completa los datos", "OK");
+            await DisplayAlert("Error", "Faltan datos", "OK");
+            return;
+        }
+
+        // Bloqueo de duplicados
+        if (gestor.ExisteJuego(txtNombre.Text, pickerPlataforma.SelectedItem.ToString()))
+        {
+            await DisplayAlert("Ya registrado", "Ese juego ya existe en esta plataforma", "OK");
             return;
         }
 
@@ -21,14 +25,13 @@ public partial class MainPage : ContentPage
         {
             Nombre = txtNombre.Text,
             Plataforma = pickerPlataforma.SelectedItem.ToString(),
-            Genero = pickerGenero.SelectedIndex != -1 ?
-                     (GeneroJuego)System.Enum.Parse(typeof(GeneroJuego), pickerGenero.SelectedItem.ToString()) :
-                     GeneroJuego.Accion,
-            Estado = "Pendiente"
+            Genero = pickerGenero.SelectedItem?.ToString() ?? "N/A",
+            Estado = "Pendiente",
+            FechaRegistro = DateTime.Now
         };
 
         gestor.AgregarJuego(nuevo);
         txtNombre.Text = "";
-        await DisplayAlert("Éxito", "Juego guardado", "OK");
+        await DisplayAlert("Éxito", "Juego guardado correctamente", "OK");
     }
 }
